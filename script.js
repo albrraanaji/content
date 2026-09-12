@@ -17,7 +17,7 @@ async function loadHomeContent() {
         content.seo.description;
 
     document.querySelector("#hero-cta").textContent =
-        content.hero.cta;
+        content.hero.cta; 
 }
 
 loadHomeContent();
