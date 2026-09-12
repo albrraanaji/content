@@ -1,5 +1,5 @@
 const CONTENT_URL =
-    "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/freologic-content@main/home.json";
+    "https://cdn.jsdelivr.net/gh/albrraanaji/content@main/test.json";
 
 async function loadHomeContent() {
     const response = await fetch(CONTENT_URL);
@@ -10,11 +10,11 @@ async function loadHomeContent() {
 
     const content = await response.json();
 
-    document.querySelector("#hero-title").textContent =
-        content.hero.title;
+    document.querySelector("#document-name").textContent =
+        content.seo.title;
 
-    document.querySelector("#hero-description").textContent =
-        content.hero.description;
+    document.querySelector("#description").textContent =
+        content.seo.description;
 
     document.querySelector("#hero-cta").textContent =
         content.hero.cta;
