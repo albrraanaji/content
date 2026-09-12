@@ -1,0 +1,27 @@
+{
+  "seo": {
+    "title": "FreoLogic — AI-first business systems",
+    "description": "..."
+  },
+
+  "hero": {
+    "eyebrow": "AI-FIRST",
+    "title": "Build smarter.",
+    "description": "...",
+    "primaryCta": {
+      "label": "Join the waitlist",
+      "url": "/waitlist"
+    }
+  },
+
+  "features": [
+    {
+      "title": "AI-native",
+      "description": "..."
+    },
+    {
+      "title": "Automated",
+      "description": "..."
+    }
+  ]
+}
