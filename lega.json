@@ -1,0 +1,36 @@
+{
+  "document": {
+    "title": "Privacy Policy",
+    "description": "",
+    "last-update": "",
+    "binding-agreement": ""
+  },
+
+  "ca": {
+    "eyebrow": "AI-FIRST",
+    "title": "Build smarter.",
+    "description": "...",
+    "primaryCta": {
+      "label": "Join the waitlist",
+      "url": "/waitlist"
+    }
+  },
+
+
+
+
+
+  "canvas": [
+    {
+      "title": "AI-native",
+      "paragraph": "..."
+    },
+    {
+      "title": "AI-native",
+      "paragraph": "...",
+      "list": {
+
+      }
+    }
+  ]
+}
