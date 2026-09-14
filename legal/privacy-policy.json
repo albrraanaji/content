@@ -1,0 +1,143 @@
+{
+  "document": {
+    "title": "Privacy Policy",
+    "last_updated": "July 20, 2026",
+    "purpose": "This Privacy Policy explains how FreoLogic (\"we\", \"our\", \"us\") collects and uses information through our website and early access registration process.",
+    "binding_agreement": null
+  },
+  "content": [
+    {
+      "number": "1",
+      "title": "About This Policy",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "FreoLogic is currently in its early development and validation phase. Our website is primarily used for marketing purposes and collecting early access requests."
+        },
+        {
+          "type": "paragraph",
+          "text": "The current website does not provide public access to the FreoLogic platform and does not process real customer business data through self-registration."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "Information We Collect",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When you request early access, we may collect:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Your name",
+            "Your email address",
+            "Company name",
+            "Company-related information provided voluntarily, such as business location or contact details"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We use any information you submit through these forms only for the purposes described in this policy — we do not repurpose it beyond communication related to FreoLogic, early access, product updates, and future availability."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "How We Use Information",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We use collected information to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Respond to inquiries",
+            "Manage early access requests",
+            "Communicate product updates",
+            "Understand interest in FreoLogic services"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "Cookies and Website Analytics",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Our website may use cookies or similar technologies to understand basic usage patterns (such as page visits) and improve the site. These do not currently collect sensitive personal information. If this changes, we will update this section accordingly."
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "Data Sharing",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We do not sell personal information."
+        },
+        {
+          "type": "paragraph",
+          "text": "We do not share your information with third parties for advertising or marketing purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Information may only be shared where necessary to operate our website, communicate with users, or comply with applicable legal requirements."
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "Platform Testing and Demonstrations",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "During the development phase, FreoLogic uses demonstration environments with sample or synthetic data only to test product functionality. We do not currently accept or process real student records, confidential business data, or other real customer data through these environments."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a business arrangement in the future requires processing real customer or student data, this will be governed by a separate data processing agreement (DPA) with that customer, not by this policy."
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "Your Rights",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Regardless of your location, you may contact us to ask what information we hold about you, request a correction, or request deletion of your information. We will respond to such requests within a reasonable time."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "Changes to This Policy",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "As FreoLogic moves from development to commercial operation, this Privacy Policy may be updated to reflect additional services, features, and legal requirements."
+        }
+      ]
+    },
+    {
+      "number": null,
+      "title": "Contact",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For questions or to exercise your rights under Section 7:"
+        },
+        {
+          "type": "link",
+          "text": "legal@freologic.com",
+          "href": "mailto:legal@freologic.com"
+        }
+      ]
+    }
+  ]
+}
