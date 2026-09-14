@@ -1,0 +1,146 @@
+{
+  "document": {
+    "title": "Terms of Service",
+    "last_updated": "July 19, 2026",
+    "purpose": "These Terms describe the current use of the FreoLogic website and early access program.",
+    "binding_agreement": null
+  },
+  "content": [
+    {
+      "number": "1",
+      "title": "Current Service Status",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "FreoLogic is currently under development."
+        },
+        {
+          "type": "paragraph",
+          "text": "The website provides information about our products and allows interested companies to request early access."
+        },
+        {
+          "type": "paragraph",
+          "text": "Access to the platform during this phase may be limited, invitation-based, and provided for testing or demonstration purposes."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "Early Access Registration",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "By submitting your information, you agree that FreoLogic may contact you regarding:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Early access availability",
+            "Product updates",
+            "Company announcements related to FreoLogic"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Submitting an early access request does not create a service agreement, subscription, or guarantee of platform availability."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Demo Environment",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Any demonstrations, previews, prototypes, or early versions of FreoLogic may contain incomplete features and are provided for evaluation purposes using sample or synthetic data only."
+        },
+        {
+          "type": "paragraph",
+          "text": "Features, functionality, pricing, availability, and specifications may change before commercial release."
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "User Responsibilities",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Users agree not to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Submit unlawful content",
+            "Attempt to disrupt or misuse the website or demo systems",
+            "Use FreoLogic services in violation of applicable laws",
+            "Submit real student records or confidential business data into demo or testing environments unless a separate written agreement with FreoLogic explicitly permits this"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "No Guarantee of Availability or Results",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "During the development phase:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Features may change or become unavailable",
+            "Performance and functionality may vary",
+            "FreoLogic does not guarantee specific business, academic, immigration, or operational outcomes"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "Intellectual Property",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "All software, designs, branding, documentation, and materials provided by FreoLogic remain the property of FreoLogic unless otherwise stated."
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "Future Commercial Terms",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Commercial services, customer agreements, pricing, data processing terms, security commitments, and other service conditions will be published or agreed separately when FreoLogic enters full commercial operation."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "Changes",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We may update these Terms as the company and services develop."
+        }
+      ]
+    },
+    {
+      "number": null,
+      "title": "Contact",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For questions:"
+        },
+        {
+          "type": "link",
+          "text": "legal@freologic.com",
+          "href": "mailto:legal@freologic.com"
+        }
+      ]
+    }
+  ]
+}
